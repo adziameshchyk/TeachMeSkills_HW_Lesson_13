@@ -1,5 +1,5 @@
 # Features of working with Java 8 (Part 1)
->This repository was created for homework in lessons №11 - "Features of working with Java 8 (Part 1)".
+>This repository was created for homework in lessons №13 - "Features of working with Java 8 (Part 1)".
 ## Tasks
 
 ### Mandatory task:  
